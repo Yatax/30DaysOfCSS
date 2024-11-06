@@ -43,10 +43,10 @@ body {
       transform:  rotate(45deg) scale(1);
     }
     25% {
-      transform:  rotate(45deg) scale(1);
+      transform:  rotate(55deg) scale(1.2);
     }
     50% {
-      transform:  rotate(45deg) scale(1.2);
+      transform:  rotate(45deg) scale(1.5);
     }
     100% {
       transform:  rotate(45deg) scale(1);
